@@ -1,6 +1,6 @@
-# Project Name
+# REDUX-FEEDBACK-LOOP
 
-REDUX-FEEDBACK-LOOP
+
 
 ## Description
 
