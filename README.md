@@ -45,7 +45,3 @@ react.js
 
 Free to use
 
-## ackowledgment
-
-thanks you EDA for helping me aquire the knoweldge for this project.
-# Public-FeedBack-Loop
